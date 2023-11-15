@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"db282933b77002d3","type":"file","file":"obsidian-document/_images/e5a2cf3ad2764640a6c40f65a8318c381.png","x":-280,"y":-300,"width":400,"height":267},
-		{"id":"a8f3223634c39935","x":-900,"y":-600,"width":560,"height":434,"type":"file","file":"obsidian-document/Story.md"}
+		{"id":"f2da42883da9da11","x":-3488,"y":-20735,"width":400,"height":400,"type":"file","file":"Story.md"}
 	],
 	"edges":[]
 }
