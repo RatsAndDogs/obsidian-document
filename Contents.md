@@ -1,0 +1,1 @@
+1. [[obsidian-document/Story|Story]]
