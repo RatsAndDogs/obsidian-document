@@ -1,0 +1,18 @@
+- Genre - Top-down shooter metroidvania
+- Target audience - semi-hardcore players who enjoy fast action, Death's Door, Tunic, Archvale
+- Platforms - PC (Steam, Epic, Gog, Itch), potentially Switch (2), if shown interest Playstation and Xbox as well
+- Pillars - Fast paced, strategic mayhem, boss fights, progression
+- Tags - indie, action, adventure, singleplayer, 3d, atmospheric, fantasy, colorful, exploration, combat, anime, shooter, controller, stylized, top-down, bullethell (shmup), metroidvania
+- Story - simple find allies and save the world, linear story with 2/3 endings depending on progress
+- Setting - fantasy world, mix of industrial and medieval (science and magic) with different biomes dictating the mix
+- Price - 15-20$
+- Length - 10-15h
+- Marketing - events, trailers, **gifs**, social media, steam
+- Localization - brazilian portugese, chinese, english, serbian, spanish, japanese, russian, french, korean, german
+- Art - stylized shapes and proportions, flat palette, anime (Ghibli) 
+- Music and sound - whimsical, clean, intense combat, cinematic at times
+- Financing - devlogs, patreon-like, kickstarter, social media
+- Launch - Q4 2025 
+
+- Zakljuciti helte i komponente
+- Dobijanje i menjanje
